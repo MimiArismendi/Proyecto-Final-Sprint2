@@ -12,4 +12,8 @@ function pendiente() {
   var elemento  = document.createElement("li");
   elemento.appendChild (texto);
   document.getElementById("lista").appendChild(elemento );
+ }
+
+function agrearFormulario(){
+  //funcion para que al dar click en el boton me arroje otro boton y un text area para los pendientes
 }
